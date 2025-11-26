@@ -16,7 +16,7 @@ namespace INVENTARIO_EQUIPOSINFORMATICOS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Equipos());
+            Application.Run(new PrincipalFrm());
         }
     }
 }

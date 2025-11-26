@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace INVENTARIO_EQUIPOSINFORMATICOS
 {
-    public partial class Equipos : Form
+    public partial class EquiposFrm : Form
     {
-        public Equipos()
+        public EquiposFrm()
         {
             InitializeComponent();
         }
